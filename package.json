@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "dev": "node --experimental-modules --es-module-specifier-resolution=node ."
+    "dev": "nodemone --experimental-modules --es-module-specifier-resolution=node ."
   },
   "repository": {
     "type": "git",
