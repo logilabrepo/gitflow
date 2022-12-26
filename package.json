@@ -11,7 +11,10 @@
     "type": "git",
     "url": "git+https://github.com/logilabrepo/gitflow.git"
   },
-  "author": "muhammadnurrendra@gmail.com",
+  "author": {
+    "name": "Muhammad Rendra",
+    "email": "muhammadnurrendra@gmail.com"
+  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/logilabrepo/gitflow/issues"
